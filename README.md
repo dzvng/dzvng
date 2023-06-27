@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dzung
-- 🧬 I’m interested in drug discovery projects
+- 🧬 I’m interested in drug discovery and digital transformation
 - 🤖 I’m currently learning molecular docking and ML/AI applications
 - 📫 Always open to discuss science with you: https://www.linkedin.com/in/nguyen-dzung/
 
