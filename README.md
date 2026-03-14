@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Dzung
-- 🧬 I’m interested in drug discovery and digital transformation
-- 🤖 I’m currently learning molecular docking and ML/AI applications
-- 📫 Always open talk with you, feel free to reach out: https://www.linkedin.com/in/nguyen-dzung/
+- 👋 Hi, my name is Dzung
+- 🧬 I’m interested in drug discovery, digital transformation, and workflow automation
+- 🤖 I’m currently learning how to implement ML/AI applications into DNA-encoded library screening workflows
+- 📫 Always open talk about science, feel free to reach out!
 
 <!---
 dzvng/dzvng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
